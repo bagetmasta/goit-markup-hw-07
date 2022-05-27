@@ -1,6 +1,7 @@
 @import './utils/fonts'; 
 @import './base/normalize';
 @import './utils/variables';
+@import './base/reset-styles';
 @import './components/studio/body';
 @import './components/studio/page-header';
 @import './components/studio/container';
@@ -19,3 +20,4 @@
 @import './components/porfolio/portfolio-section';
 @import './components/porfolio/buttons-list';
 @import './components/porfolio/grid';
+

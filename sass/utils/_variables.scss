@@ -9,14 +9,4 @@ $secondary-letter-spacing: 0.02em;
 $hero-letter-spacing: 0.06em;
 $transition-duration: 250ms;
 $timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-
-h1,
-h2,
-p {
-  margin: 0;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
-}
+$font-family: Roboto, sans-serif;
