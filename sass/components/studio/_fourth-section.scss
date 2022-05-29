@@ -37,7 +37,8 @@
   transition-duration: $transition-duration;
   transition-timing-function: $timing-function;
 
-  &:hover & {
+  .section__item--clients:hover &,
+  .section__item--clients:focus &{
   border: 1px solid $accent-color;
   } 
 }
